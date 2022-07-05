@@ -13,4 +13,4 @@ const reverseString = (inputString) =>{
 const stringGiven = "bhanu";
 const reverseStringResponse = reverseString(stringGiven);
 
-console.log(`Reverse of string ${stringGiven} is ${reverseStringResponse}`)
+console.log(`Reverse of string ${stringGiven} is ${reverseStringResponse}`);
